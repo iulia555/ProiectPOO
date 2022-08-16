@@ -1,7 +1,7 @@
 # Proiect POO - simulare SQLite
 
 Temă: Baza mea de date SQLite <br />
-Motivație: Experiență practică care te va ajuta să vezi cum se combină diferite clase pentru a dezvolta un produs software „real” (SQLite este real și folosit foarte mult) <br />
+Motivație: Experiență practică care ajută să vezi cum se combină diferite clase pentru a dezvolta un produs software „real” (SQLite este real și folosit foarte mult) <br />
 Scop final: Implementarea unei versiuni limitate a unui sistem de gestionare a bazelor de date, cum ar fi SQLite https://www.sqlite.org/index.html <br />
 
 *TEHNOLOGIILE UTILIZATE:* <br />
